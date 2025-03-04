@@ -26,9 +26,7 @@ The dataset includes **sales transactions**, customer details, product informati
 - Integrating real-time data using **Power BI Service**.  
 - Enhancing visualizations with **custom DAX calculations**.  
 
-## 🤝 Contributing  
-Feel free to fork this repository and suggest improvements!  
 
 
-This README is structured professionally and **highlights key project features, tools, and usage instructions**. Let me know if you'd like any modifications! 😊  
+
 
